@@ -1,0 +1,24 @@
+# Dati sanitari: non devono MAI finire nel repository.
+# Una volta committati restano nella storia di git anche se cancellati dopo.
+*.scp
+*.SCP
+*.csv
+*.CSV
+
+# Uscite generate
+*.png
+!docs/*.png
+!icona.png
+
+# Build PyInstaller
+build/
+dist/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
