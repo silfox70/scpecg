@@ -145,4 +145,9 @@ L'icona si rigenera con `python tools/make_icon.py`, che produce `.png`,
 
 Silvestro Scuderi — [github.com/silfox70](https://github.com/silfox70)
 
-MIT. Vedi [LICENSE](LICENSE).
+**GNU General Public License v3.0 o successiva.** Vedi [LICENSE](LICENSE).
+
+Il programma è software libero: puoi usarlo, studiarlo, modificarlo e
+ridistribuirlo. Se ne distribuisci una versione modificata, devi rilasciare
+anche quella sotto GPL, con i sorgenti. La documentazione del formato è
+frutto di reverse engineering: resta aperta a chi verrà dopo.

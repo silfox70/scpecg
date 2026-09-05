@@ -93,6 +93,6 @@ if sys.platform == "darwin":
             "CFBundleVersion": "1.0.0",
             "NSHighResolutionCapable": True,
             "LSMinimumSystemVersion": "11.0",
-            "NSHumanReadableCopyright": "MIT - Silvestro Scuderi",
+            "NSHumanReadableCopyright": "Copyright 2026 Silvestro Scuderi - GPL-3.0-or-later",
         },
     )

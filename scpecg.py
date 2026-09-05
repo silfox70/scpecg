@@ -28,14 +28,25 @@ Dipendenze: numpy, matplotlib; per l'interfaccia anche tkinter
 (su macOS con Python di Homebrew: brew install python-tk@<versione>).
 
 Autore:  Silvestro Scuderi  <https://github.com/silfox70>
-Licenza: MIT (vedi il file LICENSE)
+Licenza: GPL-3.0-or-later (vedi il file LICENSE)
 Sorgenti e documentazione del formato: https://github.com/silfox70/scpecg
 """
 
 __author__ = "Silvestro Scuderi"
-__license__ = "MIT"
+__license__ = "GPL-3.0-or-later"
 __version__ = "1.0.0"
 __url__ = "https://github.com/silfox70/scpecg"
+
+# Questo programma e' software libero: puoi ridistribuirlo e/o modificarlo
+# secondo i termini della GNU General Public License come pubblicata dalla
+# Free Software Foundation, nella versione 3 o (a tua scelta) successiva.
+#
+# E' distribuito nella speranza che sia utile, ma SENZA ALCUNA GARANZIA,
+# nemmeno la garanzia implicita di COMMERCIABILITA' o IDONEITA' PER UNO SCOPO
+# PARTICOLARE. Vedi la GNU General Public License per i dettagli.
+#
+# Dovresti aver ricevuto una copia della licenza insieme a questo programma
+# (file LICENSE); in caso contrario: https://www.gnu.org/licenses/
 
 import argparse
 import datetime
