@@ -27,6 +27,9 @@ Tutti i parametri di acquisizione (AVM, frequenza di campionamento, numero di
 derivazioni, lunghezza dei blocchi) sono letti dall'header: niente è cablato.
 Se cambi apparecchio, lo script si adatta.
 
+**[Scarica l'app per macOS](https://github.com/silfox70/scpecg/releases/latest)**
+(Apple Silicon, non firmata: al primo avvio clic destro → Apri)
+
 ## Installazione
 
 ```bash
